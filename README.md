@@ -1,4 +1,4 @@
-# Secret-Recipe-Challenge
+# Guess the Dish
 This is a ML challenge where Stage 1 is to print the top 3 ingredients used in each category.
 
 
